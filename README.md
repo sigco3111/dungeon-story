@@ -4,9 +4,9 @@
 
 *Dungeon & Story*는 자원 관리와 RPG 요소가 결합된 게임입니다. 플레이어는 던전을 탐험하여 몬스터를 처치하고 귀중한 자원을 수집해야 합니다. 이 자원들을 사용하여 아무것도 없던 마을에 건물을 짓고 업그레이드하며, 점차 강력해지는 위협으로부터 마을을 지켜내야 합니다. 당신의 성장이 곧 마을의 번영이며, 마을의 발전이 곧 당신의 새로운 힘이 됩니다.
 
-실행주소1 : https://sigco3111.github.io/dungeon-story/
+라이브 데모 : https://sigco3111.github.io/dungeon-story/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ---
 
